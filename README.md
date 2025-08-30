@@ -1,7 +1,7 @@
 # ASEE
 Adaptive Schema-aware Event Extraction with Retrieval-Augmented Generation
 
-## Task 
+## Task
 ![task](./figs/Task.png)
 An example of Adaptive Schema-aware Event Extraction (ASEE) in broad domains.
 
@@ -11,3 +11,17 @@ The architecture of ASEE comprises two primary components: Schema Paraphrasing (
 
 ## MD-SEE dataset
 ![method](./figs/dataset.png)
+
+## Citation
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex
+@misc{liang2025adaptive,
+    title={Adaptive Schema-aware Event Extraction with Retrieval-Augmented Generation},
+    author={Sheng Liang and Hang Lv and Zhihao Wen and Yaxiong Wu and Yongyue Zhang and Hao Wang and Yong Liu},
+    year={2025},
+    eprint={2505.08690},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
